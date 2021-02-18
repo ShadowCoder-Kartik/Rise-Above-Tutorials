@@ -1,0 +1,13 @@
+div#jumbotron2{  
+    padding-top: 0px;
+    padding-bottom: 0px;
+    bottom: 0; 
+    margin-left: 0px;
+    width: 100%;  
+    background: rgba(216, 208, 208); 
+    text-align: center;
+    position:static;
+} 
+.jumbotron2 .fixed-bottom{
+    margin-bottom: 0px !important;
+}

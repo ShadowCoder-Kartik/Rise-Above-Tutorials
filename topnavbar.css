@@ -1,0 +1,30 @@
+.navbar-brand {
+    position: relative;
+    background: url("brandlogo.png") center center;
+    width: 170px;
+    height: 40px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navbar-expand-lg .nav-link { 
+    color:#8189a7;
+}   
+div#navbarNav{
+    font-weight:bold;
+}
+div#navbarright{
+    font-weight:bold;
+}
+.navbar{
+    background:black;
+}
+.navbar-nav{
+    padding-left: 2px;
+    padding-right: 2px;
+}
+.navbar-brand{
+    padding-left: 2px;
+}
